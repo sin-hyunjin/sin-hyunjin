@@ -36,21 +36,3 @@
 
 
 
-### 💡 현재 배우고 있는 것:
-  
-- **Three.js**를 더 깊이 배우며 3D 애니메이션과 몰입형 사용자 경험을 개발 중.
-- **Next.js**의 SSR, ISR, 파일 기반 라우팅 등의 고급 기능 탐구.
-
----
-
-### 📫 연락처:
-
-- 이메일: [blackduvet52@gmail.com](mailto:blackduvet52@gmail.com)
-- LinkedIn: [Hyunjin Shin](https://www.linkedin.com/in/hyunjin-shin)
-
----
-
-### ⚡ 재미있는 사실:
-저는 처음에 기계를 조립하듯 코드를 작성하는 것이 재미있어서 개발을 시작했습니다. 지금은 모듈화되고 유지 보수 가능한 솔루션을 만드는 것에 열정을 가지고 있습니다!
-
----
